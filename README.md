@@ -15,14 +15,9 @@ Feito com **HTML**, **CSS** e **JavaScript**, ideal para criar páginas interati
 ├── index.html # Estrutura da página
 ├── visual.css # Estilos e animações
 ├── visual.js # Lógica para criar corações
-├── audio.js # (Opcional) efeitos sonoros
 ├── img/
 │ └── coracao2.png # Ícone da aba
-├── demo.gif # Demonstração do projeto
 
-## 🖼 Demonstração
-
-![Demonstração do projeto]
 
 
 
